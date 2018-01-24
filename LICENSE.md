@@ -1,5 +1,5 @@
 # LICENSE AGREEMENT
-
+   
 with the end user of Positive Technologies `PT.PM`
 
 ## 1. General provisions
